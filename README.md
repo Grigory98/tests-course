@@ -1,3 +1,3 @@
 # tests-course
-Домашние задания по курсу автоматизации тестирования:
+Homework of the automation test course:
 https://stepik.org/course/575/syllabus
